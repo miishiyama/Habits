@@ -21,6 +21,5 @@ function save() {
     localStorage.setItem("NLWSetup@habits", JSON.stringify(nlwSetup.data));
 };
 
-
 nlwSetup.setData(data);
 nlwSetup.load();
