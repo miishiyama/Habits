@@ -1,5 +1,14 @@
 # Habits
-![preview](./preview/Habits.png)
+
+<p align="center">
+  Preview:
+    &nbsp;&nbsp;&nbsp;
+  <a href="./preview/425x635">425x635</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="./preview/1440x747">1440x747</a>
+</p>
+
+![preview](./preview/1440x747/Habits-1440x747.png)
 
 ## Projeto 💻
 Projeto desenvolvido durante a NLW Setup da Rocketseat na Trilha Explorer. <br>
