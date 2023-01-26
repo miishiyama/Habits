@@ -17,6 +17,7 @@ Projeto desenvolvido durante a NLW Setup da Rocketseat na Trilha Explorer. <br>
 ## Instalação 🛠
 Siga esses passos para instalar o repositório na sua máquina:
 1. Rode `git clone https://github.com/miishiyama/Habits` para fazer um clone desse repositório.
+2. Abra o arquivo HTML.
 
 ## Tecnologias 🚀
 As tecnologias utilizadas neste projeto são:
@@ -24,6 +25,8 @@ As tecnologias utilizadas neste projeto são:
 - CSS
 - JavaScript
 - DOM
+- Media Queries
+- Google Fonts
 
 ## Créditos ❤️
 Feito por [Millene Eduarda Ishiyama](https://github.com/miishiyama/).
