@@ -15,8 +15,11 @@
 ![preview](./preview/1440x747/Habits-1440x747.png)
 
 ## Projeto 💻
-Projeto desenvolvido durante a NLW Setup da Rocketseat na Trilha Explorer. <br>
-(https://www.figma.com/file/B1G0UJE97GRNqL6RvzYXfV/Habits-(e)-(Community)?t=RLgu8NzsTzvDBpdV-6)
+Projeto desenvolvido durante a NLW Setup da Rocketseat na Trilha Explorer.
+
+## Layout 🔖
+Segue abaixo o layout deste projeto:
+- [Figma](https://www.figma.com/file/B1G0UJE97GRNqL6RvzYXfV/Habits-(e)-(Community)?t=RLgu8NzsTzvDBpdV-6)
 
 ## Instalação 🛠
 Siga esses passos para instalar o repositório na sua máquina:
