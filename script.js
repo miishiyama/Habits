@@ -4,7 +4,7 @@ const nlwSetup = new NLWSetup(form)
 
 const button = document.querySelector("header button")
 
-const data = JSON.parse(localStorage.getItem("NLWSetup@habits")) || {}
+const data = JSON.parse(localStorage.getItem("NLWSetup@habits")) || { }
 
 button.addEventListener("click", add)
 
